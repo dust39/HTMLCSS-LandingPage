@@ -84,8 +84,8 @@ section{
 }
 
 .brand{
-    height: 170px;
-    width:85px;
+    width: 170px;
+    height: 85px;
     margin-left: -15px;
     margin-right: 60px;
 }
@@ -96,8 +96,8 @@ section{
 }
 
 .search-box{
-    height: 330px;
-    width:30px;
+    width: 330px;
+    height:30px;
     padding: 6px,12px,6px,12px;
     border: 1px #a0a0a0;
 }
@@ -105,8 +105,8 @@ section{
 .search-button{
     background-color: #a0a0a0;
     color: #ffffff;
-    height: 100px;
-    width:30px;
+    width: 100px;
+    height:30px;
     border: 0;
     padding:0;
    
@@ -118,19 +118,13 @@ section{
     margin-top: 10px;
 }
 
-li.nav-list{
+nav-list li a{
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
-    letter-spacing: .2px ;
+    letter-spacing: 0.2px ;
 }
 
-a.nav-list{
-    font-size: 16px;
-    text-transform: uppercase;
-    font-weight: 700;
-    letter-spacing: .2px ;
-}
 
 .profile{
     margin-left: auto;
@@ -144,7 +138,7 @@ a.nav-list{
 
 }
 
-a.account{
+account a{
         font-size: 14px;
 }
 
