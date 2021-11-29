@@ -99,7 +99,7 @@ section{
     width: 330px;
     height:30px;
     padding: 6px,12px,6px,12px;
-    border: 1px #a0a0a0;
+    border: 1px solid #a0a0a0;
 }
 
 .search-button{
@@ -118,7 +118,7 @@ section{
     margin-top: 10px;
 }
 
-nav-list li a{
+.nav-list li a{
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
@@ -138,7 +138,7 @@ nav-list li a{
 
 }
 
-account a{
+.account a{
         font-size: 14px;
 }
 
@@ -147,7 +147,7 @@ account a{
     width: 60px;
 }
 
-img.profile-pic{
+.profile-pic img{
     border-radius: 100px;
     max-width: 100%;
 }
