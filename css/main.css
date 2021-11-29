@@ -161,8 +161,7 @@ section{
 }
 
 .hero h1{
-    position: relative;
-    margin-left:-30px;
+    position: relative; left:-30px;
 
 }
 
